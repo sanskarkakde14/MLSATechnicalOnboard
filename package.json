@@ -21,6 +21,7 @@
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
   },
   "dependencies": {
+    "babel-preset-react": "^6.24.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -35,5 +36,6 @@
     "parcel": "^2.7.0",
     "prettier": "^2.7.1",
     "process": "^0.11.10"
-  }
+  },
+  "presets" : ["@babel/preset-env", "@babel/preset-react"]
 }
