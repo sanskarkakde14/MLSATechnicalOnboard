@@ -2,7 +2,7 @@
   "name": "educator-js-codespace-template",
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
-  "source": "src/index.html",
+  "source": "https://polite-island-0120c3900.3.azurestaticapps.net/",
   "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
   "scripts": {
     "start": "parcel",
