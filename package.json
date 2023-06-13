@@ -37,10 +37,5 @@
     "prettier": "^2.7.1",
     "process": "^0.11.10"
   },
-  "presets" : ["@babel/preset-env", "@babel/preset-react"],
-"babel": {
-  "presets": [
-      "react-app"
-  ]
-}
+  "presets" : ["@babel/preset-env", "@babel/preset-react"]
 }
